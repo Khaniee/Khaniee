@@ -1,5 +1,5 @@
 <h1> 
-Hello all, I'm ..
+Hello y'all, I'm ..
 
 <div align="center">
     <img src="name.svg" width="100%" height="400" alt="css-in-readme">
