@@ -1,30 +1,14 @@
-### Hi there 👋
+<h1> 
+Hello all, I'm ..
 
-<!--
-**Khaniee/Khaniee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+world+!++I'm+Khanie+!!)](https://git.io/typing-svg)
-
-
-## Let's build a better world 🍃🚀🪐🌍
-## With technology ✨✨
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Upside-Down%20Face.png" alt="Upside-Down Face" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Weary%20Cat.png" alt="Weary Cat" width="25" height="25" />
-
-<div align="center" width="50">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
+<div align="center">
+    <img src="name.svg" width="100%" height="400" alt="css-in-readme">
 </div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BC15F7&random=false&width=435&lines=%F0%9F%8C%8D+Let's+build+a+better+world+...+%F0%9F%8D%83;%F0%9F%9A%80..+with+technology+%E2%9C%A8" alt="Typing SVG" width="60%"/></a>
+</div>
+
+<div align="center" >
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Upside-Down%20Face.png" alt="Upside-Down Face" width="10%" alt="erer"/>
+</div>
