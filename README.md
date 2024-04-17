@@ -6,7 +6,7 @@ Hello y'all, I'm ..
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BC15F7&random=false&width=435&lines=%F0%9F%8C%8D+Let's+build+a+better+world+...+%F0%9F%8D%83;%F0%9F%9A%80..+with+technology+%E2%9C%A8" alt="Typing SVG" width="60%"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%8C%8D+Let's+build+a+better+world+...+%F0%9F%8D%83;%F0%9F%9A%80..+with+technology+%E2%9C%A8" alt="Typing SVG" width="60%"/></a>
 </div>
 
 <div align="center" >
